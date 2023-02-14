@@ -2,3 +2,36 @@
 Santander-Product-Recommendation/train_ver2.csv
 Santander-Product-Recommendation/test_ver2.csv
 Santander-Product-Recommendation/sample_submission.csv
+
+
+### venv ###
+# Virtualenv
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
+pip-selfcheck.json
+
+
+*.pth
+*.jpg
+*.png
+*.JPG
+*.mp4
+*.txt
+*.json
+*.gif
+*.zip
+*.gz
+*.exe
+*.pkl
+*.pth
+*.pt
+*.pyc
+*checkpoint.ipynb
